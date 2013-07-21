@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicStoresVRN</string>
+    <string name="action_settings">Settings</string>
+    <string name="store_name">Name: </string>
+    <string name="store_address">Address: </string>
+    <string name="store_phone">Phone: </string>
+   
+    <string name="title_activity_view_store">ViewStore</string>
+    <string name="button_instruments">Show Instruments</string>
+    <string name="title_activity_view_instruments">ViewInstruments</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_instrument_item">InstrumentItem</string>
+    
+    <string name="instrument_brnad">Brand: </string>
+    <string name="instrument_model">Model: </string>
+    <string name="instrument_type">Type: </string>
+    <string name="instrument_price">Price: </string>
+    <string name="instrument_quantity">Quantity: </string>
+
+</resources>
